@@ -78,7 +78,7 @@ while True:
         elif user_election == 3:
             total_prices = sum(all_prices)
             total_quantity = sum(all_quantity)
-            print(f"[92mValor total del inventario: {total_prices}")
+            print(f"Valor total del inventario: {total_prices}")
             print(f"Cantidad total de productos ingresados: {total_quantity}")
 
 #Sección para salir de ciclo y cerrar el programa
